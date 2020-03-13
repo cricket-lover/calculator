@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator to test CI",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricket-lover/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cricket-lover/calculator/issues"
+  },
+  "homepage": "https://github.com/cricket-lover/calculator#readme",
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
